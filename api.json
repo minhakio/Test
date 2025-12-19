@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "unit": "km",
+  "zones": [
+    { "name": "Gần", "from_km": 0, "to_km": 3, "price": 15000 },
+    { "name": "Trung bình", "from_km": 3, "to_km": 6, "price": 25000 },
+    { "name": "Xa", "from_km": 6, "to_km": 10, "price": 40000 }
+  ]
+}
